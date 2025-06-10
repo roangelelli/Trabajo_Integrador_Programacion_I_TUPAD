@@ -7,7 +7,7 @@ Repositorio utilizado para alojar el TP Integrador de la materia Programación I
 • SCHNEIDER, ASTRID 
 COMISION N° 24 
 
-🎥 Link al video de YouTube: 
+🎥 Link al video de YouTube: https://youtu.be/d5KKTQVaaDA
 
 💻CASO PRACTICO: Sistema de Gestión de Deportistas.
 
